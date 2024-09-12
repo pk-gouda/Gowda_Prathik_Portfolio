@@ -119,3 +119,22 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+#resume {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.resume-download {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.resume-download:hover {
+    background-color: #0056b3;
+}
